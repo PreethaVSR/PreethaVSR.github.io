@@ -4,7 +4,7 @@
     color: #2b2b2b;
   }  
 </style>
-<font face="Arial Black">
+
 # Data Analyst Portfolio
 ## About
 Hi, I'm Preetha! Entry-level Data Analyst skilled in Python, SQL, Power BI, and Tableau, with hands-on experience in data analysis, visualization, and ETL automation. Strong foundation in analytical methodologies and a passion for transforming raw data into meaningful insights. Experienced in working with complex datasets, identifying patterns and trends, and supporting data-driven decision-making. Adept at data management and statistical analysis, with a focus on accuracy, clarity, and business relevance. Eager to contribute technical and analytical expertise in a data-focused role.
@@ -44,4 +44,3 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Contacts
 - LinkedIn: [@preethavsr](https://www.linkedin.com/in/preetha-subramanian-data-analyst/)
 - Email: preetha03vsr@gmail.com
-</font>
