@@ -1,8 +1,8 @@
 <style>
   body {
     background: #e6f7ff;
-    color: #eee;
-  }
+    color: #2b2b2b;
+  }  
 </style>
 
 # Data Analyst Portfolio
