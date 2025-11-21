@@ -7,7 +7,7 @@
 
 # Data Analyst Portfolio
 ## About
-Hi, I'm Preetha! Entry-level Data Analyst skilled in Python, SQL, Power BI, and Tableau, with hands-on experience in data analysis, visualization, and ETL automation. Strong foundation in analytical methodologies and a passion for transforming raw data into meaningful insights. Experienced in working with complex datasets, identifying patterns and trends, and supporting data-driven decision-making. Adept at data management and statistical analysis, with a focus on accuracy, clarity, and business relevance. Eager to contribute technical and analytical expertise in a data-focused role.
+Hi, I'm Preetha! Junior Data Analyst skilled in Python, SQL, Power BI, and Tableau, with hands-on experience in data analysis, visualization, and ETL automation. Strong foundation in analytical methodologies and a passion for transforming raw data into meaningful insights. Experienced in working with complex datasets, identifying patterns and trends, and supporting data-driven decision-making. Adept at data management and statistical analysis, with a focus on accuracy, clarity, and business relevance. Eager to contribute technical and analytical expertise in a data-focused role.
 
 My CV in [pdf](https://github.com/PreethaVSR/PreethaVSR.github.io/blob/main/Preetha_CV.pdf).
 
